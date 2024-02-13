@@ -35,7 +35,6 @@
     "redis": "^4.6.12",
     "request": "^2.88.2",
     "sqlite-cipher": "^0.3.6",
-    "sqlite3": "^5.1.6",
-    "swagger-jsdoc": "^6.2.8"
+    "sqlite3": "^5.1.6"
   }
 }
